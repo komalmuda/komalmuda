@@ -27,4 +27,4 @@ The data included various employee attributes, which made it suitable for analyz
 The motivation behind this project stemmed from my passion for healthcare and the power of data. Hospitals are complex organizations, and understanding their operations can lead to better patient outcomes and financial success. I wanted to leverage SQL to analyze key performance indicators (KPIs). 
 
 
-For more details see my [GitHub Portfolio]([https://komalmuda.github.io/]).
+For more details see my [GitHub Portfolio](https://komalmuda.github.io/).
