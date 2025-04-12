@@ -13,10 +13,10 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 ###👩🏻‍💻 Data Project I've made
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+See My Post [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 ### Learn About My Projects
-
+___
 #### [Project on Data Analysis Using Tableau (click this link)](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
 
 The data included various employee attributes, which made it suitable for analyzing turnover trends. 
@@ -27,5 +27,4 @@ The data included various employee attributes, which made it suitable for analyz
 The motivation behind this project stemmed from my passion for healthcare and the power of data. Hospitals are complex organizations, and understanding their operations can lead to better patient outcomes and financial success. I wanted to leverage SQL to analyze key performance indicators (KPIs). 
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see my [GitHub Portfolio]([https://komalmuda.github.io/]).
