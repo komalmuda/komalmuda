@@ -11,10 +11,20 @@ Welcome to my GitHub profile :) I'm Komal, Data Analyst from California.
 🎈 In my free time, I like to ... visit gym, cook, work on data project, and visit family.<br><br>
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.<br><br>
 
-### Installation
+###👩🏻‍💻 Data Project I've made
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
+### Learn About My Projects
+
+#### [Project on Data Analysis Using Tableau (click this link)](https://www.linkedin.com/pulse/insights-from-human-resource-data-employee-turnover-komal-m-48e0e/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+
+The data included various employee attributes, which made it suitable for analyzing turnover trends. 
+
+---
+#### [Project on Data Analysis With SQL (click this link)](https://www.linkedin.com/pulse/healthcare-insights-journey-through-data-analysis-komal-m-corzc/?trackingId=6gpt%2FDaaRLKJuQFooKG1xQ%3D%3D)
+
+The motivation behind this project stemmed from my passion for healthcare and the power of data. Hospitals are complex organizations, and understanding their operations can lead to better patient outcomes and financial success. I wanted to leverage SQL to analyze key performance indicators (KPIs). 
 
 You can use the editor on GitHub to maintain, edit, and preview the content for your website in Markdown files.
 
