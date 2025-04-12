@@ -1,8 +1,15 @@
 ## Data Analytics Project Portfolio
 
-### Introduction
+Welcome to my GitHub profile :) I'm Komal, Data Analyst from California.
 
-Use this template to create a portfolio quicky. 
+🔭 I’m currently working on Data Analysis and GenAI projects.
+🌱 I’m currently learning ... Data Engineering and Data Quality.
+💬 Ask me about ... Recent Tableau Projects
+😄 Pronouns: ... she/her
+⚡ Fun fact: ... I love Travel.
+🤝 Connect with me on LinkedIn ... ((https://www.linkedin.com/in/komal-m/))
+🎈 In my free time, I like to ... visit gym, cook, work on data project, and visit family.
+This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
 ### Installation
 
