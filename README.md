@@ -5,11 +5,11 @@ Welcome to my GitHub profile :) I'm Komal, Data Analyst from California.
 🔭 I’m currently working on Data Analysis and GenAI projects.<br><br>
 🌱 I’m currently learning ... Data Engineering and Data Quality.<br><br>
 💬 Ask me about ... Recent Tableau Projects<br><br>
-😄 Pronouns: ... she/her
-⚡ Fun fact: ... I love Travel.
-🤝 Connect with me on LinkedIn ... ((https://www.linkedin.com/in/komal-m/))
-🎈 In my free time, I like to ... visit gym, cook, work on data project, and visit family.
-This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
+😄 Pronouns: ... she/her<br><br>
+⚡ Fun fact: ... I love Travel.<br><br>
+🤝 Connect with me on LinkedIn ... ((https://www.linkedin.com/in/komal-m/))<br><br>
+🎈 In my free time, I like to ... visit gym, cook, work on data project, and visit family.<br><br>
+This is where I keep my code and projects. Feel free to look around and contact me if you have questions.<br><br>
 
 ### Installation
 
