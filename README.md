@@ -13,7 +13,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 ###👩🏻‍💻 Data Project I've made
 
-See My Post [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+See My Post [on LinkedIn]((https://www.linkedin.com/pulse/healthcare-insights-journey-through-data-analysis-komal-m-corzc/?trackingId=yB2Al28JSkyl9w1U05aXLA%3D%3D)).
 ___
 ### Learn About My Projects
 ___
