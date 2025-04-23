@@ -3,7 +3,7 @@
 Welcome to my GitHub profile :) I'm Komal, Data Analyst from California.
 
 🔭 I’m currently working on Data Analysis and GenAI projects.<br><br>
-🌱 I’m currently learning ... Data Engineering and Data Quality.<br><br>
+🌱 I’m currently learning ... Data Engineering and Data Quality & Governance.<br><br>
 💬 Ask me about ... Recent Tableau Projects<br><br>
 😄 Pronouns: ... she/her<br><br>
 ⚡ Fun fact: ... I love to Travel.<br><br>
